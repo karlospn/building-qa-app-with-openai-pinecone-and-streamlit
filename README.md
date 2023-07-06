@@ -96,7 +96,7 @@ This repository has a ``Dockerfile`` in case you prefer to execute the app on a 
 
 Build the image: 
 ```shell
-docker build -t qa-app
+docker build -t qa-app .
 ```
 
 Run it:
